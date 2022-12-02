@@ -1,0 +1,61 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.top {
+ background-image: url(https://img.freepik.com/free-photo/green-wall-mockup-with-green-plant-shelf3d-rendering_41470-4114.jpg?size=626&ext=jpg);
+background-repeat: no-repeat;
+background-size: cover;
+/* width: 1180px; */
+/* height: 730px; */
+overflow: hidden;
+}
+.top h1{
+    font-size: 50px;
+    text-transform: capitalize;
+    text-align: center;
+    color: darkblue;
+    padding: 10px 10px;
+    margin: 10px 0px;
+    font-style: italic;
+
+}
+.top input{
+    width: 400px;
+    height: 25px ;
+    border-radius:19px 19px 19px 19px;
+    margin: 20px 30px ;
+    padding: 5px 5px;
+   
+}
+.top h2{
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 30px;
+    color: antiquewhite;
+    margin: 50px 100px ;
+    display: inline-block;
+
+}
+.top p{
+    width: 400px ;
+    height: 500px;
+    text-align: center;
+    margin: 0px auto;
+    text-align: justify;
+    border: 1px solid darkblue;
+    background-color: rgb(245, 206, 206);
+    opacity: 0.5;
+    margin-bottom: 10px;
+    float: right;
+}
+.img1{
+        height: 400px;
+        width: 600px;
+        margin-top: -39px;
+        border-radius: 20px 10px 19px 10px;
+        float: left;
+        border-radius: 176px 23px 132px 25px;
+        margin: -22px;
+}
